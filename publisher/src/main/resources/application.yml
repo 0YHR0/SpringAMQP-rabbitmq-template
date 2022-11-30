@@ -1,0 +1,8 @@
+spring:
+  rabbitmq:
+    host: 124.220.33.202
+    port: 30608
+    virtual-host: vhost
+    username: admin
+    password: 123456
+
